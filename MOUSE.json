@@ -1,0 +1,27 @@
+[
+  {
+    "nombre": "Teclado Mecánico Corsair K70",
+    "descripcion": "Interruptores Cherry MX y retroiluminación RGB",
+    "cantidad": 732
+  },
+  {
+    "nombre": "Teclado Logitech G Pro X",
+    "descripcion": "Teclas intercambiables y diseño compacto",
+    "cantidad": 619
+  },
+  {
+    "nombre": "Teclado Razer BlackWidow",
+    "descripcion": "Interruptores Razer Green y personalización RGB",
+    "cantidad": 561
+  },
+  {
+    "nombre": "Teclado SteelSeries Apex Pro",
+    "descripcion": "Interruptores ajustables y pantalla OLED",
+    "cantidad": 888
+  },
+  {
+    "nombre": "Teclado HyperX Alloy FPS Pro",
+    "descripcion": "Diseño portátil y teclas mecánicas",
+    "cantidad": 742
+  }
+]
